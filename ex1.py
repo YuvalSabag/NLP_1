@@ -715,11 +715,6 @@ def normalize_text(text, to_lowercase=True, remove_punctuation=True, remove_numb
     return ' '.join(tokens)
 
 
-def who_am_i():  # this is not a class method
-    """Returns a ductionary with your name, id number and email. keys=['name', 'id','email']
-        Make sure you return your own info!
-    """
-    return {'name': 'Yuval Sabag', 'id': '206750002', 'email': 'yuvsa.bgu.ac.il'}
 
 
 
