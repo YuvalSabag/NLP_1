@@ -1,4 +1,4 @@
-##  **Probabilistic Spell Checker Using the Noisy Channel Model**
+##  **The Noisy Channel and a Probabilistic Spell Checker**
 
 This project implements a **probabilistic spell checker** using the **Noisy Channel Model**, which combines a **language model** and an **error model** to correct spelling mistakes while considering the surrounding context. Leveraging a Markovian language model with **n-grams** to model language structure, the system evaluates the probabilities of word sequences and determines the most likely corrections in context.
 
